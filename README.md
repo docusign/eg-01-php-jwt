@@ -1,1 +1,1 @@
-# eg-01-php-jwt
+## This repo has been replaced by [the new PHP code examples repo](https://github.com/docusign/code-examples-php)
